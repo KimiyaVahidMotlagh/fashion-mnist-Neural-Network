@@ -24,7 +24,7 @@ This project demonstrates the application of ANN and CNN models to the Fashion M
 
 The Fashion MNIST dataset is a well-known benchmark for machine learning algorithms. It contains images of various fashion items like T-shirts, trousers, and sneakers. Below is an example image from the dataset:
 
-![Fashion MNIST Examples](path/to/your/image.png)
+![Fashion MNIST Examples]([https://github.com/KimiyaVahidMotlagh/fashion-mnist-Neural-Network/blob/main/images.jpg])
 
 *Figure: Sample images from the Fashion MNIST dataset showing different categories.*
 
